@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/94235807/162979078-dc3f0c0b-d91a-44af-a02f-b61820d55ecb.png)
-:bridge_at_night: NYC 
-😄 Pronouns: she/her
+:bridge_at_night: NYC <br>
+😄 Pronouns: she/her <br>
 🌱 I’m currently an Adobe Digital Academy Scholar in the Software Engineering immersive at General Assembly <br>
 🔭 I’m currently learning fullstack development<br>
 👯 I'm very passionate about inclusivity in Tech<br>
