@@ -2,7 +2,7 @@
 :bridge_at_night: NYC <br>
 😄 Pronouns: she/her <br>
 🌱 I’m currently an Adobe Digital Academy Scholar in the Software Engineering immersive at General Assembly <br>
-🔭 I’m currently learning fullstack development & reading books with my book club<br>
+🔭 I’m learning fullstack development & reading books with my book club<br>
 👯 I'm very passionate about inclusivity in Tech<br>
 ⚡ Fun fact: My passion aside from software development is baking. My cookies are out of this 🌎
 
