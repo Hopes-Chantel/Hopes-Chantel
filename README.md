@@ -1,7 +1,10 @@
 ![image](https://user-images.githubusercontent.com/94235807/162979078-dc3f0c0b-d91a-44af-a02f-b61820d55ecb.png)
-🌱 I’m currently an Adobe Digital Academy Scholar in a Software Engineering immersive at General Assembly <br>
+:bridge_at_night: NYC 
+😄 Pronouns: she/her
+🌱 I’m currently an Adobe Digital Academy Scholar in the Software Engineering immersive at General Assembly <br>
 🔭 I’m currently learning fullstack development<br>
 👯 I'm very passionate about inclusivity in Tech<br>
+
 
 <!--
 **Hopes-Chantel/Hopes-Chantel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
