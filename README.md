@@ -4,6 +4,7 @@
 🌱 I’m currently an Adobe Digital Academy Scholar in the Software Engineering immersive at General Assembly <br>
 🔭 I’m currently learning fullstack development<br>
 👯 I'm very passionate about inclusivity in Tech<br>
+⚡ Fun fact: My passion aside from software development is baking. My cookies are out of this 🌎
 
 
 <!--
