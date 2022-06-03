@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/94235807/162979078-dc3f0c0b-d91a-44af-a02f-b61820d55ecb.png)
 :bridge_at_night: NYC <br>
 😄 Pronouns: she/her <br>
-🌱 I’m an Adobe Digital Academy Scholar and A graduate of the Software Engineering bookcamp at General Assembly <br>
+🌱 I’m an Adobe Digital Academy Scholar and a graduate of the Software Engineering bootcamp at General Assembly <br>
 🔭 I’m a fullstack developer who loves reading books with my book club<br>
 👯 I'm very passionate about inclusivity in Tech<br>
 ⚡ Fun fact: My passion aside from software development is baking. My cookies are out of this 🌎
